@@ -1,10 +1,10 @@
 body{
   background: green;
-  font-size: 24;
+  font-size: 14em;
 }
 
 p{
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 h1{
@@ -22,7 +22,7 @@ font-weight: bold;
 
 #important {
   color: green;
-  font-size: 50%;
+  font-size: 200%;
 }
 a{
   color: navy

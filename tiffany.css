@@ -29,10 +29,11 @@ a:visited {
 
 #headblock address {
  background: #e0e0d1;
+    padding: 25px;
 }
 
 #home {
-    background: #e0e0d1;
+    background: #a6a6a6;
     padding: 35px
 }
 

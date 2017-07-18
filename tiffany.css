@@ -49,6 +49,7 @@ img {
 img.left {
     width: 260px;
     float: left;
+    padding: 20px;
 }
 
 #footer {

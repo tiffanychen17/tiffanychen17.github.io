@@ -43,12 +43,12 @@ h3 {
 }
 
 img {
-    width: 260px;
+    width: 300px;
     float: right;
 }
 
 img.left {
-    width: 260px;
+    width: 300px;
     float: left;
     padding: 10px;
 }

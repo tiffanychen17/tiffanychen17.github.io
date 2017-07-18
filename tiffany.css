@@ -42,10 +42,12 @@ h3 {
 
 img {
     width: 260px;
+    float: right;
 }
 
 img.left {
     width: 260px;
+    float: left;
 }
 
 #footer {

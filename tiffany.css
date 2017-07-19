@@ -1,5 +1,5 @@
 body {
-        background-color: #e6ffe6 ;
+        background-color: #DCCFC6 ;
 }
     
 #contents {
@@ -7,7 +7,7 @@ body {
    margin-left: auto;
    margin-right: auto;
    width: 800px;
-        background-color: #e0e0d1 ;
+        background-color: #c4ff4d ;
     color: black;
         font-family: 'Archivo Narrow', sans-serif;
 }
@@ -29,23 +29,23 @@ color: purple;
 }
 
 #headblock address {
-        background: #999999;
-        padding-left: 25px;
-        padding-top: 10px;
+background: #e0e0d1
+        padding: 25px
+        color: #0d0d0d;
 }
 
 #home, #page2 {
-background-color:  ;
+background-color: #a6a6a6 ;
      padding-left: 40px;
      padding-right: 40px;
      padding-top: 40px;
      margin: 10px;
-     padding-bottom: 205px;
+     padding-bottom: 40px;
     
 }
 
 h3 {
-
+color: black;
 }
 
 img {
@@ -63,5 +63,5 @@ float: left;
 }
 
 #clearer {
-
+clear: both;
 }

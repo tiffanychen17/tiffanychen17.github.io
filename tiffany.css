@@ -30,6 +30,8 @@ color: purple;
 
 #headblock address {
         background: #999999;
+        padding-left: 25px;
+        padding-top: 10px;
 }
 
 #home, #page2 {

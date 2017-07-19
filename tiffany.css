@@ -28,14 +28,18 @@ a:visited {
 color: purple;
 }
 
-#headblock address {
+#headblock {
+        bacground: #999999;
+        padding-left: 25px
+                padding-top: 10px;
+address {
         background: #999999;
         padding-left: 25px;
         padding-top: 10px;
 }
 
 #home, #page2 {
-background-color: #e0e0d1 ;
+background-color:  ;
      padding-left: 40px;
      padding-right: 40px;
      padding-top: 40px;

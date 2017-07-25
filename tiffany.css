@@ -110,3 +110,6 @@ clear: both;
    display: block;
    text-align: left;
  }
+div.topnav a {
+        width: 77%;
+}

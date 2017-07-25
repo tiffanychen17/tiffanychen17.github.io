@@ -6,6 +6,20 @@
         <link rel="stylesheet" type="text/css" href="tiffany.css" />
         <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">
         <title>Tiffany's Webpage</title>
+        <script>
+function myFunction() {
+   var x = document.getElementById("myTopnav");
+   if (x.className === "topnav") {
+       x.className += " responsive";
+   } else {
+       x.className = "topnav";
+   }
+}
+</script>
+
+
+
+----- July 21st -----
     </head>
 
     <body>
@@ -16,7 +30,13 @@
                 <address>
                     <a href="mailto:tiffanychen533@gmail.com">tiffanychen533@gmail.com</a>
                 </address>
-
+<div class="topnav" id="myTopnav">
+         <a href="#home">Home</a>
+         <a href="page2.html">Page 2</a>
+         <a href="#contact">Contact</a>
+         <a href="#about">About</a>
+         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+        </div>
             </div>
 
             <div id = "home">

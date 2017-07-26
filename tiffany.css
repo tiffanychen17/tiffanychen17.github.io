@@ -58,6 +58,7 @@ width: 300px;
 img.left {
 float: left;
     padding: 10px;
+        width: 200px;
 }
 
 #footer {

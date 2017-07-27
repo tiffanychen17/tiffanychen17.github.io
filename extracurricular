@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" type="text/css" href="tiffany.css" />
+        <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">
+        <title>Tiffany's Webpage</title>
+        <script>
+function myFunction() {
+   var x = document.getElementById("myTopnav");
+   if (x.className === "topnav") {
+       x.className += " responsive";
+   } else {
+       x.className = "topnav";
+   }
+}
+</script>
+
+
+
+----- July 21st -----
+    </head>
+
+    <body>
+        <div id="contents">
+            <div id = "headblock">
+
+                <h1>Xing Chen (Tiffany)</h1>
+                <address>
+                    <a href="mailto:tiffanychen533@gmail.com">tiffanychen533@gmail.com</a>
+                </address>
+<div class="topnav" id="myTopnav">
+     <a href="tiffanychen.html">About Me</a>
+      <a href="academic.html">Academic</a>
+    <a href="extracurricular.html">Extracurricular</a>
+         <a href="contact">Contact</a>
+         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+ 
+        </div>
+            </div>
+
+            <div id = "home">
+
+                <img src = "https://lh3.google.com/u/0/d/0B8yBONam60mGcTJNQ3Bsc2FWUWRBZ0FYSkU3bWhHQWIzNlI0=w2554-h1314-iv1" alt = "1st image"/> 
+
+                <h3>Extracurricular</h3>
+                <p><h2>Music</h2></p>
+
+                <p>I major on the violin in school. I started playing violin when I was 8 years old and I have enjoyed playing this instrument ever since. </p>
+
+                <p>Throughout my journey I competed against other talented people. Playing an instrument does not only mean playing the instrument. I also had to know music theory and took lessons for 2 years on this subject. Music theory is basically the foundation of music. knowing that will definitely enhance one's knowledge on music.</p>
+
+                <p>I also tested my skill in the Associated Board of the Royal Schools of Music (ABRSM). It was a great opportunity for me to challenge myself in learning two pieces and scales in a few months. It was a difficult time for me because to pass this test, I had to practice every single day for an hour or two. I dedicated most of my time on the violin and refreshing my knowledge on music theory.</p>
+
+                <img class="left" src = "http://www.words-chinese.com/images2/chinese_symbols_for_learning_9800_2_13.png" alt = "second image"/> 
+
+                <p>I also immerse myself in my family language which is chinese. I attended chinese school since I was 6 years old. I recently graduated and I think I learned so much about the chinese culture and I actually understand traditions my family practice.</p>
+
+                <p>Being in these two extracurriculars really shaped who I am and I can say that I really enjoyed these two impactful challenges in my life. </p>
+
+
+
+
+                <div id = "clearer"></div>
+            </div>
+
+            <p id = "footer">&copy; 2017, Tiffany Chen</p>
+
+        </div>    
+    </body>
+</html>
+
